@@ -13,7 +13,7 @@ public class Main {
         System.out.println("The Addition is = "+ans);
 
 
-        int sub=a+b;
+        int sub=a-b;
 
         System.out.println("The Subtraction is = "+sub);
     }
