@@ -8,9 +8,9 @@ public class Main {
 
         int a=20;
         int b=10;
-        int ans=a+b;
+        int add=a+b;
 
-        System.out.println("The Addition is = "+ans);
+        System.out.println("The Addition is = "+add);
 
 
         int sub=a-b;
