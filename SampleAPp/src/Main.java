@@ -6,10 +6,15 @@ public class Main {
         System.out.println("This statement is added by Ajay");
         System.out.println("This statement is added by Mansi");
 
-        int a=10;
-        int b=20;
+        int a=20;
+        int b=10;
         int ans=a+b;
 
         System.out.println("The Addition is = "+ans);
+
+
+        int sub=a+b;
+
+        System.out.println("The Subtraction is = "+sub);
     }
 }
