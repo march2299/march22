@@ -10,6 +10,7 @@ public class Main {
         int b=10;
         int add=a+b;
 
+
         System.out.println("The Addition is = "+add);
 
 
@@ -18,6 +19,14 @@ public class Main {
         System.out.println("The Subtraction is = "+sub);
 
         System.out.println("Statement added for demo of check-in");
+
+
+        System.out.println("The Addition is = "+add);
+
+
+        int sub=a-b;
+
+        System.out.println("The Subtraction is = "+sub);
 
     }
 }
